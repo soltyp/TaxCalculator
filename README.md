@@ -5,15 +5,15 @@
 ## Opis
 Projekt Kalkulator Podatkowy to aplikacja Windows Forms przeznaczona do obliczania podatku i dochodu netto na podstawie rocznego dochodu użytkownika i wybranego kraju. Aplikacja obsługuje wiele krajów, z których każdy ma własne zasady obliczania podatków.
 
-Komponenty
-FormCalculator.cs: Główna forma, gdzie użytkownicy wprowadzają swoje dochody i wybierają kraj.
-TaxCalculatorBase.cs: Abstrakcyjna klasa bazowa dla różnych kalkulatorów podatkowych specyficznych dla krajów.
-FranceTaxCalculator.cs: Logika obliczania podatków dla Francji.
-GermanyTaxCalculator.cs: Logika obliczania podatków dla Niemiec.
-PolandTaxCalculator.cs: Logika obliczania podatków dla Polski.
-UKTaxCalculator.cs: Logika obliczania podatków dla Wielkiej Brytanii.
-USATaxCalculator.cs: Logika obliczania podatków dla Stanów Zjednoczonych.
-Program.cs: Punkt wejścia aplikacji.
+Komponenty:
+- FormCalculator.cs: Główna forma, gdzie użytkownicy wprowadzają swoje dochody i wybierają kraj.
+- TaxCalculatorBase.cs: Abstrakcyjna klasa bazowa dla różnych kalkulatorów podatkowych specyficznych dla krajów.
+- FranceTaxCalculator.cs: Logika obliczania podatków dla Francji.
+- GermanyTaxCalculator.cs: Logika obliczania podatków dla Niemiec.
+- PolandTaxCalculator.cs: Logika obliczania podatków dla Polski.
+- UKTaxCalculator.cs: Logika obliczania podatków dla Wielkiej Brytanii.
+- USATaxCalculator.cs: Logika obliczania podatków dla Stanów Zjednoczonych.
+- Program.cs: Punkt wejścia aplikacji.
 
 ## Szczegółowy Opis
 1. FormCalculator.cs
