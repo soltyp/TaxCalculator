@@ -144,7 +144,7 @@ Interfejs użytkownika można ulepszyć dla lepszego doświadczenia użytkownika
 
 
 
-##EXAMPLE SCREENSHOTS
+## EXAMPLE SCREENSHOTS
 ![e](images/1.png)
 ![e](images/2.png)
 
@@ -284,4 +284,4 @@ New tax calculators for other countries can be added by creating new classes tha
 UI Enhancements:
 
 The user interface can be improved to enhance user experience.
-##This project demonstrates polymorphism.
+## This project demonstrates polymorphism.
